@@ -18,7 +18,7 @@ class HomeScreen extends StatelessWidget {
             children: [
               
               Center(
-                child: Text('${value.count}',style:const TextStyle(fontSize: 200),),
+                child: Text('${value.count}',style:const TextStyle(fontSize: 205),),
               ),
           const    SizedBox(height: 100,),
               Row(
